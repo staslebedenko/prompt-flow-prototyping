@@ -1,0 +1,79 @@
+{
+  "orientation": "Vertical",
+  "nodeLayouts": {
+    "inputs": {
+      "x": 362,
+      "y": 62,
+      "index": -1
+    },
+    "outputs": {
+      "x": 362,
+      "y": 722,
+      "index": -1
+    },
+    "search_indexed_docs": {
+      "x": 417.5,
+      "y": 172,
+      "height": 75,
+      "index": 0
+    },
+    "generate_prompt_context": {
+      "x": 417.5,
+      "y": 282,
+      "height": 75,
+      "index": 1
+    },
+    "Prompt_variants": {
+      "x": 362,
+      "y": 392,
+      "height": 75,
+      "index": 2
+    },
+    "prompt_variants_no_data": {
+      "x": 737.482322676272,
+      "y": 277.8310011393084,
+      "height": 75,
+      "index": 3
+    },
+    "Chat_without_data": {
+      "x": 744.15308727824,
+      "y": 399.6432409164474,
+      "height": 75,
+      "index": 4
+    },
+    "Chat_with_context": {
+      "x": 362,
+      "y": 502,
+      "height": 75,
+      "index": 5
+    },
+    "summary": {
+      "x": 362,
+      "y": 612,
+      "height": 75,
+      "index": 6
+    },
+    "Custom_code": {
+      "x": 94.96515373531102,
+      "y": 443.07659212989756,
+      "height": 75,
+      "index": 7
+    },
+    "pip_install": {
+      "x": 92.46369334808583,
+      "y": 300.96414603538256,
+      "height": 75,
+      "index": 8
+    }
+  },
+  "viewport": {
+    "transformMatrix": [
+      0.8706913813718209,
+      0,
+      0,
+      0.8706913813718209,
+      -3.285124091110305,
+      -67.1552307934459
+    ]
+  }
+}
