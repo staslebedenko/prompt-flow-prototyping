@@ -1,4 +1,4 @@
-# prompt-flow-prototyping
+# Building python applications with Azure PromptFlow
 Prompt flow custom code 3 nodes
 
 The key point here is that you can use a prompt flow from the folder to get idea how to start with prototyping and building of the new solution with Python and PromptFlow
